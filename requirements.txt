@@ -1,0 +1,7 @@
+fastapi==0.110.0
+strawberry-graphql==0.211.1
+uvicorn==0.29.0
+pandas==2.2.2
+sqlalchemy==2.0.30
+python-dotenv==1.0.1
+typing-extensions==4.11.0
