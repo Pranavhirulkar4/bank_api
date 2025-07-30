@@ -71,6 +71,9 @@ CTRL+C  #(to stop the server)#
 
 Then visit: [http://localhost:8000/gql]
 
+## Time Taken
+
+This project took around 4 to 5 hours to complete. I explored GraphQL, FastAPI, filters, and Git — and learned a lot while building and debugging along the way.
 
 ## Why I Didn’t Deploy
 
